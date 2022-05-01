@@ -6,10 +6,9 @@
     <button @click="clickMe">Click me!</button>
     <button @click="resetClickedTime">Clear</button>
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos vero
-      asperiores esse consequuntur corrupti dignissimos ad quos possimus harum
-      recusandae expedita, ducimus eveniet obcaecati. Numquam officiis odio
-      magnam eum.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos vero asperiores esse
+      consequuntur corrupti dignissimos ad quos possimus harum recusandae expedita, ducimus eveniet
+      obcaecati. Numquam officiis odio magnam eum.
     </p>
   </div>
 </template>
